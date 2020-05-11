@@ -4,11 +4,11 @@ import datetime
 
 start = time.time()
 logging.basicConfig(level=logging.INFO)
+print("Date and Timestamp:", datetime.datetime.now().strftime("%d.%b %Y %H:%M:%S"))
 
 logging.info("Open names file")
 
 with open("names.txt", "r") as f:
-    logging.INFO
     namesList = []
     logging.info("read the names from file and converting into lowercase")
     namesList = f.read().replace(" ", "_").lower().split()
@@ -30,5 +30,5 @@ print(unique_mails)
 with open("names_updated.txt", "w") as f2:
     for mail in unique_mails:
         f2.write(mail + '\n')
-print("Date and Timestamp of the script execution :", datetime.datetime.now().strftime("%d.%b %Y %H:%M:%S"))
-print("Time taken by the script to execute is : ", time.time() - start)
+
+print("Time taken to execute the script is : ", time.time() - start)
