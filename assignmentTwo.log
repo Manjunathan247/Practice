@@ -1,0 +1,35 @@
+13-May-20 19:13:24 - INFO: Clicked on radio2radio button
+13-May-20 19:13:25 - INFO: Selected Indon from suggestion drop down
+13-May-20 19:13:25 - INFO: Selected option2 from static drop down
+13-May-20 19:13:25 - INFO: Selected option1 from checkbox example
+13-May-20 19:13:25 - INFO: Selected option3 from checkbox example
+13-May-20 19:13:26 - INFO: Enter Manjunathan in text field
+13-May-20 19:13:26 - INFO: Switch To Alert Example field
+13-May-20 19:13:26 - INFO: Alert message is having Manjunathan
+13-May-20 19:13:26 - INFO: Clicked on accept button
+13-May-20 19:13:26 - INFO: Enter Manjunathan in text field
+13-May-20 19:13:26 - INFO: Switch To Alert Example field
+13-May-20 19:13:26 - INFO: Alert message is having Manjunathan
+13-May-20 19:13:26 - INFO: Clicked on dismiss button
+13-May-20 19:13:26 - INFO: Clicked on Open window button
+13-May-20 19:13:26 - INFO: Now control in child browser
+13-May-20 19:13:37 - INFO: Title of the child page is: QA Click Academy | Selenium,Jmeter,SoapUI,Appium,Database testing,QA Training Academy
+13-May-20 19:13:37 - INFO: Child browser is closed
+13-May-20 19:13:38 - INFO: Now control back to parent browser
+13-May-20 19:13:38 - INFO: Title of the parent page is: Practice Page
+13-May-20 19:13:38 - INFO: Clicked on Open tab button
+13-May-20 19:13:38 - INFO: Now control in child browser
+13-May-20 19:13:40 - INFO: Title of the child page is: Rahul Shetty Academy
+13-May-20 19:13:40 - INFO: Child browser is closed
+13-May-20 19:13:40 - INFO: Now control back to parent browser
+13-May-20 19:13:40 - INFO: Title of the parent page is: Practice Page
+13-May-20 19:13:40 - INFO: Number of courses having Selenium as substring is: 4
+13-May-20 19:13:41 - INFO: Enter Manjunathan in text field
+13-May-20 19:13:41 - INFO: Clicked on hide button
+13-May-20 19:13:41 - INFO: Text box is not displayed
+13-May-20 19:13:41 - INFO: Clicked on show button
+13-May-20 19:13:41 - INFO: Text box is displayed
+13-May-20 19:13:41 - INFO: Mouse on Mousehover button
+13-May-20 19:13:41 - INFO: control switching into iframe
+13-May-20 19:13:42 - INFO: Control back to main page
+13-May-20 19:13:42 - INFO: Close the browser
