@@ -4,6 +4,7 @@
       <w>appium</w>
       <w>childwindow</w>
       <w>chromedriver</w>
+      <w>creddentials</w>
       <w>defaultframe</w>
       <w>dropdown</w>
       <w>elementdisplayed</w>
@@ -20,6 +21,8 @@
       <w>mouserhover</w>
       <w>namefield</w>
       <w>openwindow</w>
+      <w>paramerization</w>
+      <w>parameterization</w>
       <w>parentwindow</w>
       <w>radiobuttons</w>
       <w>rahul</w>
